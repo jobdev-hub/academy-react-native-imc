@@ -46,6 +46,12 @@ const styles = StyleSheet.create({
     marginLeft: 12,
     margin: 30,
   },
+  formMsgErro: {
+    fontSize: 12,
+    color: "red",
+    fontWeight: "bold",
+    paddingLeft: 20,
+  },
 });
 
 export default styles;
